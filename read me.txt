@@ -1,1 +1,19 @@
-The Crime Management System is a web-based application designed to facilitate crime reporting, tracking, and management for law enforcement agencies and citizens. It enables users to log complaints, view crime records, and analyze crime trends through an interactive dashboard. The system ensures secure user authentication, efficient crime record management, improving transparency and responsiveness in law enforcement.
+Crime Management System
+📌 Project Overview
+
+The Crime Management System is a web-based application designed to help law enforcement agencies and citizens report, track, and manage crime incidents effectively. The system provides a user-friendly interface for logging complaints, viewing crime records, and generating reports for analysis.
+
+🚀 Features
+
+1) User Authentication: Secure login and role-based access (Admin, Police, and Citizens).
+2) Crime Reporting: Citizens can file complaints online with location and evidence attachments.
+3) Crime Record Management: Admin and police can manage, update, and categorize crime reports.
+4) Search and Filter: Advanced search options to retrieve specific crime records.
+5) Admin Dashboard: Overview of crime data and system analytics.
+6) Responsive Design: Accessible across multiple devices.
+
+🛠️ Technologies Used
+
+Frontend: HTML, CSS, JavaScript
+Backend: PHP
+Database: MySQL
