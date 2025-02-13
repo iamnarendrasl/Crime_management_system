@@ -1,3 +1,1 @@
-Visit https://www.youtube.com/channel/UC6iS07XEH4PTDMGh8UKG_4Q
-my youtube channel for more projects
-and get the website link to free download projects
+The Crime Management System is a web-based application designed to facilitate crime reporting, tracking, and management for law enforcement agencies and citizens. It enables users to log complaints, view crime records, and analyze crime trends through an interactive dashboard. The system ensures secure user authentication, efficient crime record management, improving transparency and responsiveness in law enforcement.
